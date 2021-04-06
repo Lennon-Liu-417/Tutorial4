@@ -1,0 +1,8 @@
+---
+title: "Learning to reference figures, tables, and sections"
+author: "Lennon"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+outpute:
+  bookdown::html_document2
+keep_md: true
+---
