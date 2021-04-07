@@ -36,5 +36,7 @@ knitr::kable(head(dat, n=5), caption="This is the first 5 rows")
 
 In Table \@ref(tab:TabRef), we show the first 5 rows of the data.
 
+# Conclusion
+
 In Section\@ref(figures), we learn how to reference figures. While in Section \@ref(tables), we learn how to reference tables.
 
